@@ -1,3 +1,5 @@
+<img src="https://yt3.ggpht.com/-pNGL_fZt-wo/AAAAAAAAAAI/AAAAAAAAAAA/86MBTnIqSZQ/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" alt="Logo UE" style="width: 100px; height: 100px;" />
+
 # Reversing UE Boom speaker
 
 ## Description

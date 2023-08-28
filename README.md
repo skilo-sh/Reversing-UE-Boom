@@ -22,7 +22,7 @@ All I needed to know was which attribute was used for the ATT write request, whi
 
 ### Reversing android app
 In the "com/logitech/ue/centurion/legacy/ble/BLECommand.java" file of the App, we can see all the GATT attributes used to communicate with the speaker.<br>
-I had listed them in the "" file, this allowed me to gather the information needed to create the python script. 
+I had listed them in the [this](https://github.com/skilo-sh/Reversing-UE-Boom/blob/main/all_attributes.txt) file, this allowed me to gather the information needed to create the python script. 
 
 ## Interaction with Speaker
 
